@@ -3,13 +3,14 @@
 
 - 🔭 I’m currently working on [a Personal Finance Tracker](https://github.com/cbanlawi/finance_tracker)
 
+- 📝 I wrote [**AI Can’t Do This for You: Building the Developer Skills That Still Matter**](https://dev.to/cbanlawi/ai-cant-do-this-for-you-building-the-developer-skills-that-still-matter-1266)
+  - a short piece on staying sharp and intentional as a developer in the AI era
+
 - 🌱 I’m currently learning **how to DJ 🎧 🎶 🎛️**
 
 - 💬 Ask me about **sports! 🏀**
 
 - 📫 How to reach me **christine.banlawi@gmail.com**
-
-- 📝 I wrote [**AI Can’t Do This for You: Building the Developer Skills That Still Matter**](https://dev.to/cbanlawi/ai-cant-do-this-for-you-building-the-developer-skills-that-still-matter-1266) — a short piece on staying sharp and intentional as a developer in the AI era.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
